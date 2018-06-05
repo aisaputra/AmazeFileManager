@@ -60,6 +60,14 @@ Authors
 - Arpit Khurana
 - Vishal Nehra
 
+Team Project
+---
+- Ai Saputra G.211.16.0069
+- Faishal G.211.16.
+- Imam Nailun Naja G.211.16.
+- Suhartono G.211.16.
+- Alvin Mahendra G.211.16.
+
 ### License: 
 
     Copyright (C) 2014-2018 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
