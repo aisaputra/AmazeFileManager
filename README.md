@@ -63,10 +63,10 @@ Authors
 Team Project
 ---
 - Ai Saputra G.211.16.0069
-- Faishal G.211.16.
-- Imam Nailun Naja G.211.16.
-- Suhartono G.211.16.
-- Alvin Mahendra G.211.16.
+- Faishal G.211.16.0059
+- Imam Nailun Naja G.211.16.0062
+- Suhartono G.211.16.0111
+- Alvin Mahendra G.211.16.0115
 
 ### License: 
 
